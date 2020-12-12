@@ -1,0 +1,46 @@
+body{
+	background-color: WhiteSmoke;
+}
+a{
+	color:black;
+	font-family: soleil, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+	font-size: 20px;
+	text-decoration: none;
+}
+h1{
+	font-size: 40px;
+	font-family: soleil, sans-serif;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+.small{
+	font-size: 25px;
+	font-family: soleil, sans-serif;
+}
+h3{
+	font-family: soleil, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-top: 0px;
+}
+.sub{
+	margin-left: 20px;
+	margin-bottom: 0px;
+	font-size:25px;
+	font-family: soleil, sans-serif;
+	font-weight: 700;
+}
+.text{
+	margin-left: 40px;
+	margin-top: 0px;
+}
+li{
+	font-color: black;
+}
+a:hover {
+	color: DarkGrey;
+}
